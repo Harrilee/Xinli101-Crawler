@@ -1,3 +1,7 @@
+"""
+documentation: https://blog.harrilee.top/?p=174
+"""
+
 import base_code
 import json
 import time

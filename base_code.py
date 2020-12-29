@@ -1,3 +1,7 @@
+"""
+documentation: https://blog.harrilee.top/?p=174
+"""
+
 from bs4 import BeautifulSoup
 from urllib import request
 import re
